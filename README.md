@@ -3,6 +3,6 @@
 Here Pulse rate has been calculated via phone camera video by analysing RGB value change after applying Euler video magnification technique (A computer vision algorithm which was proposed by MIT CS&amp;AI Lab).
 
 Key observation points:
-1. There was very small change in the red and green color components and hence I have used blue color component variation for the pulse rate measurement.
+1. There was very small change in the red and green color component values and hence I have used blue color component variation for the pulse rate measurement.
 2. For a single pulse there is a pair of maximas in the blue component variation.
 3. Accuracy has been increased after smoothing.
