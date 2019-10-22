@@ -15,6 +15,8 @@ Key observation points:
 ![Screenshot from 2019-10-22 06-16-25](https://user-images.githubusercontent.com/23376016/67253121-ba088080-f493-11e9-9291-a1f1f2f7b675.png)
 
 # RGB variation with time after magnification and smoothing.
+x: time in seconds.
+y: Obtained Magnified RGB values
     For 5th result: Pulse rate calculated= 69.09, fitbit reading= 71, error= 2.69% 
 ![Screenshot from 2019-10-22 06-27-47](https://user-images.githubusercontent.com/23376016/67253424-364f9380-f495-11e9-89e7-e5d1027a1871.png)
 
